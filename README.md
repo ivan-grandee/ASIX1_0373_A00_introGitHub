@@ -35,7 +35,7 @@ ahegauhgiaurhgrñsuhgsoñshrñougshoñrshñosdhoñitshoñtdhjoidshodtihtoihtoihs
 ```
 [Manual oficial de Markdown](https://markdown.es/ "Texto adicional sobre el link")
 
-![alt text](./Imagen1.jpg "Imagen random de un archivo)
+![alt text](./Imagen1.jpg "Imagen random de un archivo")
 
 | *Jugador* | *Equipo*  | *Nombre* |
 |:---------|:----------:|--------------------:|
